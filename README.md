@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Dragos, and welcome to my GitHub profile, where you can find a collection of projects and code snippets reflecting my journey in the world of programming. I'm a junior Python developer passionate about building software, mostly solutions that address real-world problems.
+I'm Dragos, and welcome to my GitHub profile, where you can find a collection of projects and code snippets reflecting my journey in the world of programming. I'm a Python enthusiast passionate about building software, mostly solutions that address real-world problems.
 
 ## 🚀 What I'm Working On
 
@@ -8,7 +8,7 @@ Currently, I'm focused on honing my skills in Python development. I'm actively s
 
 ## 🌱 Goals
 
-My goal is to explore the full potential of Python, understand it deeply, and continuously improve my projects, making them 1% better than they were yesterday.
+My goal is to explore the full potential of Python, understand it deeply, and continuously improve myself, striving to become better than I was yesterday.
 
 ## 📂 Projects
 
@@ -33,7 +33,7 @@ Feel free to explore more projects, as I will keep posting new ones!
 - MySQL | PostgresSQL
 - Postman
 
-## Other programming languages studied
+## 👴 Other programming languages studied in the past
 
 - Java | Angular | Spring | SpringBoot (accredited course)
 - C | C++ (studied in my free time)
