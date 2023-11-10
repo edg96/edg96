@@ -1,4 +1,4 @@
-### 👋 Hi there
+### 👋 Hi There
 
 I'm Dragos, and welcome to my GitHub profile, where you can find a collection of projects and code snippets reflecting my journey in the world of programming. I'm a Python enthusiast passionate about building software, mostly solutions that address real-world problems.
 
@@ -33,7 +33,7 @@ Feel free to explore more projects, as I will keep posting new ones!
 - MySQL | PostgresSQL
 - Postman
 
-## 👴 Other programming languages studied in the past
+## 👴 Other Programming Languages Studied In The Past
 
 - Java | Angular | Spring | SpringBoot (accredited course)
 - C | C++ (studied in my free time)
