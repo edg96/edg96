@@ -1,6 +1,6 @@
 ### 👋 Hi There
 
-I'm Dragos, and welcome to my GitHub profile, where you can find a collection of projects and code snippets reflecting my journey in the world of programming. I'm a Python enthusiast passionate about building software, mostly solutions that address real-world problems.
+Hello and welcome to my GitHub profile, where you can find a collection of projects and code snippets reflecting my journey in the world of programming. I'm a Python enthusiast passionate about building software, mostly solutions that address real-world problems.
 
 ## 🚀 What I'm Working On
 
