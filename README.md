@@ -44,8 +44,7 @@ Feel free to explore more projects, as I will keep posting new ones!
 
 I'm always open to networking and collaboration. Connect with me on:
 
-- Email: edragosgabriel@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/edragosgabriel/)
+- Email: x.deerme@gmail.com
 - Discord: S.H.I.E.L.D (Structured and Helpful Initiative for Educational Learning and Development): [Discord Invite](https://discord.gg/25YXt6k2)
 
 ## 🙏 Thank You
