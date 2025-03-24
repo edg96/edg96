@@ -1,52 +1,21 @@
-### 👋 Hi There
+##👋 Hey there!
+I'm Dragos, a passionate software developer on a journey from Data Engineering to Web Development. My background spans multiple technologies, from Python and backend development to JavaScript/ TypeScript and React.
 
-Hello and welcome to my GitHub profile, where you can find a collection of projects and code snippets reflecting my journey in the world of programming. I'm a Python enthusiast passionate about building software, mostly solutions that address real-world problems.
+##🚀 My Current Focus
+I’m diving deep into React (with JavaScript/ TypeScript) building dynamic and scalable applications. Coming from a strong data-driven background, I bring structured problem-solving and a keen eye for performance optimization to front-end development.
 
-## 🚀 What I'm Working On
+##🎯 My Goal
+To sharpen my skills in React and modern web development, build scalable and user-friendly applications, and contribute to projects where I can both learn and make an impact. I’m always looking for opportunities to collaborate, improve, and grow as a developer.
 
-Currently, I'm focused on honing my skills in Python development. I'm actively seeking opportunities to contribute to open source projects, collaborate with fellow developers, and kickstart my career as a Python Junior Developer.
+##🔧 Technologies & Tools
+💻 Web Development: JavaScript (ES6+), React, Next.js
+🛠 Backend & Data: SQL, NoSQL, Python, REST APIs
+📦 Version Control & DevOps: Git, Docker, AWS (basic)
+🎯 Other Tech: Java (Spring Boot), C++, Automation (Selenium)
 
-## 🌱 Goals
+##🤝 Let's Connect
+📞 Phone: +40 732 408 552
+📧 Email: edragosgabriel@gmail.com
 
-My goal is to explore the full potential of Python, understand it deeply, and continuously improve myself, striving to become better than I was yesterday.
-
-## 📂 Projects
-
-Here are some highlights from my GitHub repository:
-
-- **UtilityBox:** [GitHub Repository](https://github.com/edg96/UtilityBox)
-  - UtilityBox is a versatile collection of Python utilities designed to simplify common tasks and provide useful functionalities for developers and users.
-
-- **CurrencyConverter:** [GitHub Repository](https://github.com/edg96/CurrencyConverter)
-  - Currency Converter is a Python application that allows you to quickly and easily convert between various currencies using up-to-date exchange rates provided by the National Bank of Romania (BNR).
-
-- **YouStats:** [GitHub Repository](https://github.com/edg96/YouStats)
-  - YouStats is a tool for scraping data from two YouTube channels, comparing their growth over the years, and visualizing common information.
-
-Feel free to explore more projects, as I will keep posting new ones!
-
-## 🔧 Technologies & Tools
-
-- Python | Django
-- HTML | CSS | JavaScript
-- Git | GitHub | Docker
-- MySQL | PostgresSQL
-- Postman
-
-## 👴 Other Programming Languages Studied In The Past
-
-- Java | Angular | Spring | SpringBoot (accredited course)
-- C | C++ (studied in my free time)
-- Assembly (studied in school)
-- AutoCad | Catia (studied in school)
-
-## 🤝 Let's Connect
-
-I'm always open to networking and collaboration. Connect with me on:
-
-- Email: edragosgabriel@gmail.com
-- LinkedIn: linkedin.com/in/edragosgabriel
-
-## 🙏 Thank You
-
-Thank you for visiting my GitHub profile! I'm excited about the possibilities in the world of programming and look forward to connecting with like-minded individuals.
+##🙏 Thank You
+Thanks for visiting my profile!
